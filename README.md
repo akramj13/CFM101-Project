@@ -1,2 +1,2 @@
 # CFM101-Project
-CFM101 Group Project
+Refer to Team 11 Assignment.ipynb for the final version of the portfolio. 
